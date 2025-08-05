@@ -1,0 +1,7 @@
+Looking back at my code compared to the provided solution, I realize there are several areas where I can do better as a programmer. While my functions were mostly correct and clear, I missed some key opportunities to improve efficiency, handle edge cases more carefully, and match standard conventions. For example, in my sum_of_digits function, I handled negative inputs, showing my attention to edge cases. However, I didn’t explore cleaner or shorter ways of writing the function, like using a ternary operator or avoiding unnecessary variables.
+
+In my count_occurrences function, the logic was sound, but I overlooked cases like a None input, which could cause my code to crash. The other version handled those gracefully. Also, it included multiple optimized alternatives, which I didn’t think to try. Seeing that reminded me that writing working code is just the beginning — writing efficient, clean code matters too.
+
+For the factorial and Fibonacci problems, I felt confident. However, in my Fibonacci function, I used a less common starting condition, defining F(1)=1 and F(2)=2 instead of the more standard F(0)=0 and F(1)=1. I learned how small differences like that can make my code less clear to others.
+
+Overall, this comparison helped me see that clean code, proper testing, and handling all cases are just as important as getting the logic right. I want to keep improving in all of those areas.
